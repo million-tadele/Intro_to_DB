@@ -1,5 +1,3 @@
--- List all tables in the specified database
-SHOW TABLES;
 -- Use the database
 USE alx_book_store;
 
